@@ -50,7 +50,11 @@ figcaption {
   background-color: white;
   bottom: 0;
   padding: 15px;
+<<<<<<< HEAD
   position: relative;
+=======
+  position: absolute;
+>>>>>>> 64e608dd80eee6aadf0ba0b190c70ad29858439c
   width: 100%;
 }
 svg {
