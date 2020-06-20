@@ -60,14 +60,14 @@ body{
 }
 
 .container p{
-  font-family: 'Muli', sans-serif;
+  font-family: 'Willful', sans-serif;
   color: #ececf0bd;
-  font-size: 17px;
+  font-size: 24px;
 }
 .container b{
-  font-family: 'Muli', sans-serif;
+  font-family: 'Willful', sans-serif;
   color: #ececf0bd;
-  font-size: 12px;
+  font-size: 19px;
 }
 button{
   font-family: 'Muli', sans-serif;
