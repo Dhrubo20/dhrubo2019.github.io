@@ -62,8 +62,13 @@ body{
 .container p{
   font-family: 'Muli', sans-serif;
   color: #ececf0bd;
+  font-size: 17px;
 }
-
+.container b{
+  font-family: 'Muli', sans-serif;
+  color: #ececf0bd;
+  font-size: 12px;
+}
 button{
   font-family: 'Muli', sans-serif;
   color: black;
