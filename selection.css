@@ -42,12 +42,12 @@ body {
 }
 .card-text p {
   color: black;
-  font-size:25px;
+  font-size:18px;
   font-weight: 300;
 }
 .card-text h2 {
   margin-top:0px;
-  font-size:28px;
+  font-size:20px;
 }
 .card-stats {
   grid-area: stats; 
