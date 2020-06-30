@@ -117,6 +117,21 @@ body {
 .card-stats.card3 {
   background: rgb(0, 189, 63);
 }
+/*card4*/
+.card-image.card4 {
+  background: url("music.png");
+  background-size: cover;
+}
+.card-text.card4 .date {
+  color: rgb(0, 189, 63);
+}
+.card-stats.card4 .border {
+  border-left: 1px solid rgb(14, 122, 50);
+  border-right: 1px solid rgb(14, 122, 50);
+}
+.card-stats.card4 {
+  background: rgb(0, 189, 63);
+}
 a {
     position: relative;
     transform: translate(-50%,-50%);
